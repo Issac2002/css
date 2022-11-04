@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: azure;
+}
+h1
+{
+    color: red;
+    background-color: aqua;
+}  
+  #one{
+    background-color: antiquewhite;
+    color: blue;
+  }
+  p{
+    color: chartreuse;
+  }
+  .red-color{
+    color: blueviolet;
+
+  }
+  .blue-color{
+    color: gold;
+  }
